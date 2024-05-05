@@ -1,7 +1,7 @@
 # DesafioJavascript
 Código desenvolvido para a disciplina SSC0961 - Desenvolvimento Web e Mobile ministrada no Instituto de Ciências Matemáticas e de Computação - ICMC, da Universidade de São Paulo. <br>
 
-Trata-se de uma página de cadastro de usuário onde foi implementado um código em javascript na qual devem ser feitas as seguintes validações: <br>
+Trata-se de uma página de cadastro de usuário onde foi implementado um código em javascript para realizar as seguintes validações: <br>
 
 - Validação do nome do usuário:
     - Deve conter apenas letras
